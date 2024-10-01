@@ -1,1 +1,1 @@
-# Lyrics Predictor using Birectional LSTM
+# Lyrics Predictor using Bidirectional LSTM
